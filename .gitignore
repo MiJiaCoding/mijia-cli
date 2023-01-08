@@ -1,1 +1,4 @@
 node_modules
+src/main-demo.js
+src/test.js
+src/testclone.js
